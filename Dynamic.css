@@ -1,0 +1,24 @@
+.w-webflow-badge{
+    display: none !important;
+}
+
+.MailPic{
+    height: 477px;  
+}
+
+.bubble-box-pic {
+    width: 41px;
+    height: 41px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIj-jSI83TdFjowFrjNDibsg8M0NBl74v9TJ9tITHDWF3dGCQ) !important;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 10px;
+    position: absolute;
+    top: 0%;
+    bottom: auto;
+    left: auto;
+    right: 0%;
+}
