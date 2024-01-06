@@ -22,3 +22,14 @@
     left: auto;
     right: 0%;
 }
+
+.fonttxt {
+    color: #bf6464;
+    font-family: 'Raleway',sans-serif;
+    font-size: 33px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
