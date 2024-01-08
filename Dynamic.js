@@ -11,7 +11,7 @@ WebFont.load({
   }(window, document);
 
 window.onload = function(){
-  ChangeTxtOfHeading("Hello! Hardik This Side!");
+  ChangeTxtOfHeading("Hello! Hardik This Side! I am a UX/UI Designer.");
 }
 
 
