@@ -33,3 +33,7 @@
     text-align: center;
     text-transform: uppercase;
 }
+
+.badge-box.w-inline-block{
+    display: none;
+}
